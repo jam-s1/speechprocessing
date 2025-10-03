@@ -1,3 +1,13 @@
-##### Lit Review
-* Sources
-* 
+**Lit Review**
+
+Anderson, E. V. (2017). The Discourse Marker “But” in English to ASL Interpretations [Ed.D., Lamar University - Beaumont]. In ProQuest Dissertations and Theses (1925001252). ProQuest Central; ProQuest Dissertations & Theses Global. https://ezproxy.rit.edu/login?url=https://www.proquest.com/dissertations-theses/discourse-marker-english-asl-interpretations/docview/1925001252/se-2?accountid=108
+Bauer, A., Kuder, A., Schulder, M., & Schepens, J. (2024). Phonetic differences between affirmative and feedback head nods in German Sign Language (DGS): A pose estimation study. PLoS One, 19(5). ProQuest Central. https://doi.org/10.1371/journal.pone.0304040
+Cormier, K., Smith, S., & Sevcikova-Sehyr, Z. (2015). Rethinking constructed action. Sign Language & Linguistics, 18(2), 167–204. https://doi.org/10.1075/sll.18.2.01cor
+CRASBORN, O., & VAN DER KOOIJ, E. (2013). The phonology of focus in Sign Language of the Netherlands. Journal of Linguistics, 49(3), 515–565. Cambridge Core. https://doi.org/10.1017/S0022226713000054
+Dachkovsky, S., & Sandler, W. (2009). Visual Intonation in the Prosody of a Sign Language. Language and Speech, 52, 287–314. Art, Design & Architecture Collection; ProQuest Central.
+de Vos, C., van der Kooij, E., & Crasborn, O. (2009). Mixed Signals: Combining Linguistic and Affective Functions of Eyebrows in Questions in Sign Language of the Netherlands. Language and Speech, 52, 315–339. Art, Design & Architecture Collection; ProQuest Central.
+Gonzalez, C. (2011). Perception of prosody in American Sign Language [Ph.D., Purdue University]. In ProQuest Dissertations and Theses (904416342). ProQuest Central; ProQuest Dissertations & Theses Global. https://ezproxy.rit.edu/login?url=https://www.proquest.com/dissertations-theses/perception-prosody-american-sign-language/docview/904416342/se-2?accountid=108
+Malaia, E., & Wilbur, R. B. (2012). Kinematic Signatures of Telic and Atelic Events in ASL Predicates. Language and Speech, 55(3), 407–421. Art, Design & Architecture Collection; ProQuest Central. https://doi.org/10.1177/0023830911422201
+Nicodemus, B., Swabey, L., & Moreland, C. (2014). Conveying medication prescriptions in American Sign Language: Use of emphasis in translations by interpreters and deaf physicians. Translation and Interpreting : The International Journal of Translation and Interpreting Research, 6(1). http://www.trans-int.org/index.php/transint/article/view/287/149
+QUINTO-POZOS, D., & REYNOLDS, W. (2012). ASL Discourse Strategies. Sign Language Studies, 12(2), 211–235. JSTOR.
+Wilbur, R. B. (2009). Effects of Varying Rate of Signing on ASL Manual Signs and Nonmanual Markers. Language and Speech, 52, 245–285. Art, Design & Architecture Collection; ProQuest Central.
