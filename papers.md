@@ -12,6 +12,7 @@ CRASBORN, O., & VAN DER KOOIJ, E. (2013). The phonology of focus in Sign Languag
 Dachkovsky, S., & Sandler, W. (2009). Visual intonation in the prosody of a sign language. Language and speech, 52(Pt 2-3), 287–314. https://doi.org/10.1177/0023830909103175
 
 de Vos, C., van der Kooij, E., & Crasborn, O. (2009). Mixed signals: combining linguistic and affective functions of eyebrows in questions in sign language of the Netherlands. Language and speech, 52(Pt 2-3), 315–339. https://doi.org/10.1177/0023830909103177
+
 Gonzalez, C. (2011). Perception of prosody in American Sign Language [Ph.D., Purdue University]. In ProQuest Dissertations and Theses (904416342). ProQuest Central; ProQuest Dissertations & Theses Global. https://ezproxy.rit.edu/login?url=https://www.proquest.com/dissertations-theses/perception-prosody-american-sign-language/docview/904416342/se-2?accountid=108
 
 Malaia, E., & Wilbur, R. B. (2012). Kinematic Signatures of Telic and Atelic Events in ASL Predicates. Language and Speech, 55(3), 407–421. Art, Design & Architecture Collection; ProQuest Central. https://doi.org/10.1177/0023830911422201
