@@ -1,6 +1,8 @@
 **Lit Review**
 
 
+Allen, S. (2011, April 15). Study of American Sign Language provides insights into long-term language change | University of Chicago News. https://news.uchicago.edu/story/study-american-sign-language-provides-insights-long-term-language-change
+
 Anderson, E. V. (2017). The Discourse Marker “But” in English to ASL Interpretations [Ed.D., Lamar University - Beaumont]. In ProQuest Dissertations and Theses (1925001252). ProQuest Central; ProQuest Dissertations & Theses Global. https://ezproxy.rit.edu/login?url=https://www.proquest.com/dissertations-theses/discourse-marker-english-asl-interpretations/docview/1925001252/se-2?accountid=108
 
 Bauer, A., Kuder, A., Schulder, M., & Schepens, J. (2024). Phonetic differences between affirmative and feedback head nods in German Sign Language (DGS): A pose estimation study. PLoS One, 19(5). ProQuest Central. https://doi.org/10.1371/journal.pone.0304040
